@@ -28,7 +28,7 @@
     "fs-extra": "^6.0.0",
     "glob": "^7.1.2",
     "js-yaml": "^3.3.0",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^9.0.0",
     "jwks-rsa": "^1.2.0",
     "memored": "^1.1.1",
     "minizip-asm.js": "^1.0.10",
